@@ -1,6 +1,6 @@
 # DB3600 Final Project — Dating Website Platform
 
-A full‑stack web application designed for our Databases 3600, implementing a dating‑style matching system. Implemented with a backend structured to behave similarly to a **graph database** using MySQL relationships.
+A full stack web application designed for Databases 3600, implementing a dating style matching system. Implemented with a backend structured to behave similarly to a **graph database** using MySQL relationships.
 
 ## Technologies Used
 - **MySQL**
@@ -12,7 +12,7 @@ A full‑stack web application designed for our Databases 3600, implementing a d
 ---
 
 ## Project Overview
-The goal of this project is to simulate a graph‑like matching system using a relational SQL database. Users create profiles, select interests, and the system identifies potential matches based on overlapping attributes.
+The goal of this project is to create a graph style matching system using a relational SQL database. Users create profiles, select interests, and the system recommends users to match with. 
 
 ### Key Features
 - User account creation and login  
