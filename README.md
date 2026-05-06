@@ -23,7 +23,7 @@ The goal of this project is to simulate a graph‑like matching system using a r
 
 ---
 
-## 🛠️ Setup & Running Instructions
+## Setup & Running Instructions
 
 ### 1. Install Required Software
 - Install **VS Code**
