@@ -1,4 +1,4 @@
-# DB3600 Final Project — Dating Website Platform
+# DB3600 Final Project — Dating Website
 
 A full stack web application designed for Databases 3600, implementing a dating style matching system. Implemented with a backend structured to behave similarly to a **graph database** using MySQL relationships.
 
