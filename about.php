@@ -26,8 +26,8 @@
         </div>
     </div>
     <div class="aboutDesc">
-        <h1>Title</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi quis magni consequatur id. Similique ipsa laborum libero accusantium doloremque debitis magni assumenda, perspiciatis eos, blanditiis numquam non corporis iure consequuntur.</p>
+        <h1>Have Some Fun</h1>
+        <p>We have grown tired of the monotonous dating app game. We decided why take it so seriously, let's have fun with the dating process and hopefully we will meet others with the same mindset. If you love food and have been deterred from dating due to other dating apps, join us today.</p>
     </div>
     <div class="aboutStats">
         <div class="stat">
