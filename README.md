@@ -37,6 +37,15 @@ Open the **XAMPP Control Panel** and start:
 - **Apache**
 - **MySQL**
 
-### 4. Access the Website
+
+### 4. Setup Database
+1. Open localhost/
+2. Select phpMyAdmin
+3. Choose the import option
+4. Select the cs3600db.sql file
+5. Press the import button
+
+
+### 5. Access the Website
 Open your browser and go to:
 localhost/{Project Name}
